@@ -1,0 +1,29 @@
+{
+    "-NKnayptimsetydB_T1H": {
+      "firebaseKey": "-NKnayptimsetydB_T1H",
+      "favorite": false,
+      "language_tech": "HTML",
+      "title": "scrum",
+      "uid": "",
+      "definition": "sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis",
+      "time_stamp": "4/19/2022"
+    },
+    "-NKnayq-6aT-X_Nqu2cn": {
+      "firebaseKey": "-NKnayq-6aT-X_Nqu2cn",
+      "favorite": false,
+      "language_tech": "JAVA",
+      "title": "Star",
+      "uid": "",
+      "definition": "nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis",
+      "time_stamp": "4/25/2023"
+    },
+    "-NKnayq5bbyW1qAtttXV": {
+      "firebaseKey": "-NKnayq5bbyW1qAtttXV",
+      "favorite": true,
+      "language_tech": "CSS",
+      "title": "Death Star",
+      "uid": "",
+      "definition": "duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus",
+      "time_stamp": "3/1/2022"
+    }
+  }
